@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "YOYOSMP-5JRf.aternos.me",
-    "port":  64687,
+    "port":64687,
     "version": "1.21.11",
     "try-creative": false
   },
