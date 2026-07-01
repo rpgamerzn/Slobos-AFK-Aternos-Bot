@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fahhhh-FR2H.aternos.me",
-    "port":29362,
+    "ip": "Fernos.me",
+    "port":,
     "version": "1.21.11",
     "try-creative": false
   },
